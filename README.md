@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avarice0
 - 👀 I’m interested in learning concepts and programming in general
 - 🌱 I’m currently learning C++ as a novice first language
-- 💞️ I’m looking to collaborate on creating games
+- 💞️ I’m looking to collaborate on creating games and software development
 - 📫 How to reach me?: via this account
 
 <!---
